@@ -50,4 +50,4 @@ Package name | Text Editor | Maintainer
 - [cookbook](https://github.com/PimW/cookbook) A clojure webapp to view recipes written in the CookLang format
 - [eleventy-plugin-cooklang](https://github.com/matt-auckland/eleventy-plugin-cooklang) CookLang plugin for [Eleventy](https://www.11ty.dev)
 - [markdown-it-cooklang](https://github.com/ulfschneider/markdown-it-cooklang) An early incomplete implementation of CookLang for [markdown-it](https://github.com/markdown-it/markdown-it)
-- [cooklandg(https://github.com/aguinane/Cooklang) Python parser and conversion tool for cooklang into [nyum](https://github.com/doersino/nyum) and [chowdown](https://github.com/clarklab/chowdown) markdown formats
+- [cooklang](https://github.com/aguinane/Cooklang) Python parser and conversion tool for cooklang into [nyum](https://github.com/doersino/nyum) and [chowdown](https://github.com/clarklab/chowdown) markdown formats
