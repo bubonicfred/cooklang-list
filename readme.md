@@ -7,7 +7,7 @@ Repo Name | Language | Maintainer | Passing Tests?
 [cooklang-swift](https://github.com/cooklang/cooklang-swift) | Swift | Cooklang | Yes
 [cooklang-c](https://github.com/cooklang/cooklang-c) | C | Cooklang |
 [cooklang-ts](https://github.com/cooklang/cooklang-ts) | Typescript | Cooklang | Yes
-[cooklang-parser](https://github.com/biowaffeln/cooklang-parser) | Typescript | biowaffln|
+[cooklang-parser](https://github.com/biowaffeln/cooklang-parser) | Typescript | biowaffln |
 [cooklang-go](https://github.com/cooklang/cooklang-ts) | Golang | Cooklang |
 [cooklang-go](https://github.com/justintout/cooklang-go) | Golang | justintout |
 [cooklang-dart](https://github.com/aquilax/cooklang-dart) | Dart | aquilux | Yes
@@ -50,3 +50,4 @@ Package name | Text Editor | Maintainer
 - [cookbook](https://github.com/PimW/cookbook) A clojure webapp to view recipes written in the CookLang format
 - [eleventy-plugin-cooklang](https://github.com/matt-auckland/eleventy-plugin-cooklang) CookLang plugin for [Eleventy](https://www.11ty.dev)
 - [markdown-it-cooklang](https://github.com/ulfschneider/markdown-it-cooklang) An early incomplete implementation of CookLang for [markdown-it](https://github.com/markdown-it/markdown-it)
+- [cooklandg(https://github.com/aguinane/Cooklang) Python parser and conversion tool for cooklang into [nyum](https://github.com/doersino/nyum) and [chowdown](https://github.com/clarklab/chowdown) markdown formats
