@@ -1,6 +1,6 @@
-## Cooklang Tools List
+# Cooklang Tools List
 
-### Parsers ###
+## Parsers
 
 Repo Name | Language | Maintainer | Passing Tests?
 ---|---|---|---
@@ -31,7 +31,7 @@ Repo Name | Language | Maintainer | Passing Tests?
 [cooklang-hs](https://github.com/isaacvando/cooklang-hs) | Haskell | isaacvando | Yes
 [cooklang-rs](https://github.com/Net-Mist/cooklang-rs) | Rust | Net-Mist | Yes
 
-### Syntax highlighters
+## Syntax highlighters
 
 Package name | Text Editor | Maintainer
 ---|---|---
@@ -42,7 +42,7 @@ Package name | Text Editor | Maintainer
 [cooklang-micro](https://github.com/nicholaswilde/cooklang-micro) | micro | nicholaswilde
 [cooklang.nanorc](https://github.com/le-jun/cooklang.nanorc) | nano | le-jun
 
-### Other tools
+## Other tools
 
 - [cook-docs](https://github.com/nicholaswilde/cook-docs) A tool for automatically generating markdown documentation for CookLang recipes
 - [tree-sitter-cooklang](https://github.com/addcninblue/tree-sitter-cooklang) [Tree Sitter](https://tree-sitter.github.io/tree-sitter/) grammar for CookLang
