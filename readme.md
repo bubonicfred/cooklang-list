@@ -8,7 +8,6 @@ Repo Name | Language | Maintainer | Passing Tests?
 [cooklang-c](https://github.com/cooklang/cooklang-c) | C | Cooklang |
 [cooklang-ts](https://github.com/cooklang/cooklang-ts) | Typescript | Cooklang | Yes
 [cooklang-parser](https://github.com/biowaffeln/cooklang-parser) | Typescript | biowaffln |
-[cooklang-go](https://github.com/cooklang/cooklang-ts) | Golang | Cooklang |
 [cooklang-go](https://github.com/justintout/cooklang-go) | Golang | justintout |
 [cooklang-dart](https://github.com/aquilax/cooklang-dart) | Dart | aquilux | Yes
 [cooklang-js](https://github.com/deathau/cooklang-js) | Javascript | deathau |
