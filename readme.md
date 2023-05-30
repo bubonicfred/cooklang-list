@@ -50,3 +50,4 @@ Package name | Text Editor | Maintainer
 - [eleventy-plugin-cooklang](https://github.com/matt-auckland/eleventy-plugin-cooklang) CookLang plugin for [Eleventy](https://www.11ty.dev)
 - [markdown-it-cooklang](https://github.com/ulfschneider/markdown-it-cooklang) An early incomplete implementation of CookLang for [markdown-it](https://github.com/markdown-it/markdown-it)
 - [cooklang](https://github.com/aguinane/Cooklang) Python parser and conversion tool for cooklang into [nyum](https://github.com/doersino/nyum) and [chowdown](https://github.com/clarklab/chowdown) markdown formats
+- [cooklang-chef](https://github.com/Zheoni/cooklang-chef) Rust based cooklang CLI tool.
